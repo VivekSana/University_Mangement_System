@@ -1,1 +1,6 @@
  I am writing Functional and non functional requirments 
+Functional Requirments
+a. login
+b.placement portal
+c. view attendance
+Non functional requirments
